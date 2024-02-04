@@ -18,7 +18,7 @@ Structure :
 <input type="submit" class="add" value="Add Task" />: Submit button for adding tasks.
 <div class="tasks"></div>: Container for displaying tasks.
 <script src="main.js"></script>: Links to the external JavaScript file.
-## CSS (styles.css)
+**CSS (styles.css) **
 Styles :
 Styles are defined for the overall layout, form, input fields, buttons, and task display.
 The application uses flexbox for layout and styling to create a clean and responsive design.
